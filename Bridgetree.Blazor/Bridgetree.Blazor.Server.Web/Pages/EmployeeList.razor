@@ -1,0 +1,11 @@
+﻿
+
+@page "/"
+@inherits EmployeesListBase
+@attribute [Authorize]
+
+<h3>Employee List</h3>
+<h5> Count - @SelectedEmployeesCount</h5>
+<DisplayEmployee Employees="Employees" OnEmployeeSelection="EmployeeSelectionChanged" OnEmployeeDeleted="EmployeeDeleted">
+</DisplayEmployee>
+

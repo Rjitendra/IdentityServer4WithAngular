@@ -1,0 +1,41 @@
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.deps.json
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.json
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.dev.json
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfoInputs.cache
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfo.cs
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\Bridgetree.Training\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.deps.json
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.json
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.dev.json
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfoInputs.cache
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfo.cs
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.csprojAssemblyReference.cache
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.deps.json
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.json
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.dev.json
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.csprojAssemblyReference.cache
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfoInputs.cache
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfo.cs
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Users\jbehera.BRIDGETREE\Desktop\BlazorServerApp\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.deps.json
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.json
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.runtimeconfig.dev.json
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\bin\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.csprojAssemblyReference.cache
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfoInputs.cache
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.AssemblyInfo.cs
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.csproj.CoreCompileInputs.cache
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.dll
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.pdb
+C:\Workspace\Jitendra Personal\My Project\Active Project\Bridgetree.Blazor\Bridgetree.Blazor.Models\obj\Debug\netcoreapp3.1\Bridgetree.Blazor.Models.genruntimeconfig.cache

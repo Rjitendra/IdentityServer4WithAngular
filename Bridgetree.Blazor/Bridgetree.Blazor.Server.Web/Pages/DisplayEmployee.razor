@@ -1,0 +1,56 @@
+﻿@inherits DisplayEmployeeBase
+
+<div class="card-deck">
+    <div class="btn-group m-3">
+        <a class="btn btn-secondary" href="/editemployee" @onclick="HandleClick" Match="NavLinkMatch.All">
+            Create Employee
+        </a>
+        <button class="btn btn-primary" @onclick="OnChanged">Click me</button>
+    </div>
+
+    @if (Employees != null)
+    {
+
+        <table class='table'>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Gender</th>
+                    <th>Department</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var emp in Employees)
+                {
+                    <tr>
+                        <td>@emp.FirstName</td>
+                        <td>@emp.Gender</td>
+                        <td>@emp.Department.DepartmentName</td>
+                        <td>@emp.Email</td>
+                        <td>
+                            <a href='/editemployee/@emp.EmployeeId'>Edit</a>  |
+                            <a href="javascript:(0)" @onclick="(() => Delete(emp.EmployeeId,emp.FirstName)) "> Delete</a>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    }
+</div>
+<Confirm @ref="DeleteConfirmation" ConfirmationChanged="ConfirmDelete" 
+         ConfirmationMessage=@($"Are you sure you want to delete \"{FirstName}\"")></Confirm>
+
+@code {
+
+
+    @inject NavigationManager NavigationManager;
+
+    private void HandleClick()
+    {
+        NavigationManager.NavigateTo("editemployee", true);
+    }
+
+
+}
