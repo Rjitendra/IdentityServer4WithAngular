@@ -19,7 +19,7 @@ export class AuthService {
         return {
             authority: environment.stsBaseUrl,
             client_id: 'angular-client',
-            redirect_uri: `${environment.clientBaseUrl}/src`,
+            redirect_uri: `${environment.clientBaseUrl}/signin-callback`,
             scope: 'openid profile companyApi',
             response_type: 'code',
             post_logout_redirect_uri: `${environment.clientBaseUrl}`,

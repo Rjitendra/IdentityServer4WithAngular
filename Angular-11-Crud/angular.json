@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Angular11CrudDemo": {
+    "Angular12CrudDemo": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/Angular11CrudDemo",
+            "outputPath": "dist/Angular12CrudDemo",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -72,19 +72,19 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "Angular11CrudDemo:build",
+            "browserTarget": "Angular12CrudDemo:build",
             "port": 4210
           },
           "configurations": {
             "production": {
-              "browserTarget": "Angular11CrudDemo:build:production"
+              "browserTarget": "Angular12CrudDemo:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "Angular11CrudDemo:build"
+            "browserTarget": "Angular12CrudDemo:build"
           }
         },
         "test": {
@@ -121,18 +121,18 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "Angular11CrudDemo:serve"
+            "devServerTarget": "Angular12CrudDemo:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "Angular11CrudDemo:serve:production"
+              "devServerTarget": "Angular12CrudDemo:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "Angular11CrudDemo",
+  "defaultProject": "Angular12CrudDemo",
   "cli": {
     "analytics": false
   }

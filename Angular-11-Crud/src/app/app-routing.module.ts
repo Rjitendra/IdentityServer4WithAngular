@@ -24,7 +24,7 @@ const routes: Routes = [
       }
     ],
   },
-  { path: 'src', component: SigninRedirectCallbackComponent },
+  { path: 'signin-callback', component: SigninRedirectCallbackComponent },
 
 
 ];
