@@ -1,0 +1,30 @@
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\bin\Debug\netcoreapp3.1\Models.dll
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Workspace\Jitendra Personal\My Project\Active Project\Angulat wuth sts\IdentityServer4WithAngular\Backend\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.json
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\bin\Debug\netcoreapp3.1\Service.runtimeconfig.dev.json
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\jbehera.BRIDGETREE\Desktop\New folder\IdentityServer4WithAngular\Jitendra.Backend\Service\obj\Debug\netcoreapp3.1\Service.genruntimeconfig.cache
