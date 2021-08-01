@@ -1,0 +1,86 @@
+<p>
+  employee-edit works!
+</p>
+
+<p>
+  employee-edit works!
+</p>
+
+<h1 *ngIf="isAddMode">Add User</h1>
+<h1 *ngIf="!isAddMode">Edit User</h1>
+<form [formGroup]="form" (ngSubmit)="onSubmit()" *ngIf="employee">
+  <div class="form-row">
+    <div class="form-group col-5">
+      <label>First Name</label>
+      <input type="text" formControlName="firstNameCtrl" class="form-control"
+        [ngClass]="{ 'is-invalid': submitted && f.firstNameCtrl.errors }" />
+      <div *ngIf="submitted && f.firstNameCtrl.errors" class="invalid-feedback">
+        <div *ngIf="f.firstNameCtrl.errors.required">First Name is required</div>
+      </div>
+    </div>
+    <div class="form-group col-5">
+      <label>Last Name</label>
+      <input type="text" formControlName="lastNameCtrl" class="form-control"
+        [ngClass]="{ 'is-invalid': submitted && f.lastNameCtrl.errors }" />
+      <div *ngIf="submitted && f.lastNameCtrl.errors" class="invalid-feedback">
+        <div *ngIf="f.lastNameCtrl.errors.required">Last Name is required</div>
+      </div>
+    </div>
+  </div>
+  <div class="form-row">
+    <div class="form-group col-5">
+      <label>Email</label>
+      <input type="text" formControlName="emailCtrl" class="form-control"
+        [ngClass]="{ 'is-invalid': submitted && f.emailCtrl.errors }" />
+      <div *ngIf="submitted && f.emailCtrl.errors" class="invalid-feedback">
+        <div *ngIf="f.emailCtrl.errors.required">Email is required</div>
+        <div *ngIf="f.emailCtrl.errors.emailCtrl">Email must be a valid email address</div>
+      </div>
+    </div>
+    <div class="form-group col-5">
+      <label>Department</label>
+      <select formControlName="departmentCtrl" class="form-control"
+        [ngClass]="{ 'is-invalid': submitted && f.departmentCtrl.errors }">
+        <option value=""></option>
+        <option value="1">IT</option>
+        <option value="2">HR</option>
+        <option value="3">PAYROLL</option>
+        <option value="4">ADMIN</option>
+      </select>
+      <div *ngIf="submitted && f.departmentCtrl.errors" class="invalid-feedback">
+        <div *ngIf="f.departmentCtrl.errors.required">Department is required</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-group col-5">
+      <label>Gender</label>
+      <select formControlName="genderCtrl" class="form-control"
+        [ngClass]="{ 'is-invalid': submitted && f.genderCtrl.errors }">
+        <option value=""></option>
+        <option value="1">GENDER</option>
+        <option value="2">FEMALE</option>
+        <option value="3">OTHER</option>
+      </select>
+      <div *ngIf="submitted && f.genderCtrl.errors" class="invalid-feedback">
+        <div *ngIf="f.genderCtrl.errors.required">Gender is required</div>
+      </div>
+    </div>
+    <div class="form-group col-5">
+      <label>Date of Birth</label>
+      <input type="date" formControlName="dateOfBirthCtrl" class="form-control"
+        [ngClass]="{ 'is-invalid': submitted && f.dateOfBirthCtrl.errors }" />
+      <div *ngIf="submitted && f.dateOfBirthCtrl.errors" class="invalid-feedback">
+        <div *ngIf="f.dateOfBirthCtrl.errors.required">Date of Birth is required</div>
+     </div>
+    </div>
+  </div>
+  <div class="form-group">
+    <button [disabled]="loading" class="btn btn-primary">
+      <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+      Save
+    </button>
+    <a [routerLink]="['/emp-list']" class="btn btn-link">Cancel</a>
+  </div>
+</form>

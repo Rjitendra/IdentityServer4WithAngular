@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/oidc-client/1.5.2/oidc-client.js"></script>
+    <script>
+         var mgr = new Oidc.UserManager({
+        userStore: new Oidc.WebStorageStateStore({ store: window.localStorage })
+    });
+    mgr.signinRedirectCallback().then(x=> {
+        window.location = x.state || "/";
+    }, error => {
+        console.error(error);
+        window.location = "..";
+    });
+    </script>
+</body>
+
+</html>

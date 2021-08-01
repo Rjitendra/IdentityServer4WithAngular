@@ -1,0 +1,27 @@
+<br>
+<br>
+<br>
+<br>
+<a [routerLink]="['/emp-add']" class="btn btn-sm btn-success mb-2">Add Employee</a>
+<p-table [value]="employee">
+  <ng-template pTemplate="header">
+    <tr>
+      <th>Name</th>
+      <th>Gender</th>
+      <th>Department</th>
+      <th>Email</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </ng-template>
+  <ng-template pTemplate="body" let-res>
+    <tr>
+      <td>{{res.firstName+' '+res.lastName}}</td>
+      <td>{{getGender(res.gender)}}</td>
+      <td>{{res.department.departmentName}}</td>
+      <td>{{res.email}}</td>
+      <td><a [routerLink]="['/emp-edit', res.employeeId]">Edit</a></td>
+      <td><a href="javascript:void(0)" (click)="deleteUser(res.employeeId)">Delete</a></td>
+    </tr>
+  </ng-template>
+</p-table>
