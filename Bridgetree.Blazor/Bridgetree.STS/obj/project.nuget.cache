@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RfGBoxprZzsScH19FBo01AmZYA/HybXa1DGHHEZ9AWOLBQYqesWC1PUjVrXXW4dxlnkNB+pNhG5NnAI77mDMHw==",
+  "dgSpecHash": "DuxxMOJAQeK1xXNkDOwzOV7zvgzt4yMG0wkArcnVwphzU9JxlXbR6qAajHtkLEnd8XkUKtvyrzgH01j6CfNNWQ==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.STS\\Bridgetree.STS.csproj",
+  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.STS\\Bridgetree.STS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",

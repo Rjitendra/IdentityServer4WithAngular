@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qPxupyY3zSKanV4mZbC2uFsYOtNzaMe1BCeuuJ1b6KwJBWEKuXyqaNoz2GS0Ok9aakzyMzHg8jztclO1si20fg==",
+  "dgSpecHash": "WXJ1+7a1n2cbSLxFV76j6WsCia+f27kN2x8W3K0wqqKqf+KB85vxqKdyNY7z3yHjfWMGPoN3N2MXhpwpOX+pdw==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
+  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

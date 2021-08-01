@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0HnXuelvN/U5D4YzZcC/a42CsuhOplmsf489J83PyALlkGw1haRxCJ2/Ww2lhwQ2W+1VlgXkCnwQOg5WHjv8wg==",
+  "dgSpecHash": "q+C4A5IUoakmOacwMNBVOVzGQopYsX8KPtonhAcBUwXpaAhgXzzdSar2FIjLW4z0BI2P7+n2vYdSzbq/Ict6vA==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Api\\Bridgetree.Blazor.Api.csproj",
+  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Api\\Bridgetree.Blazor.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.17\\microsoft.aspnetcore.authentication.jwtbearer.3.1.17.nupkg.sha512",

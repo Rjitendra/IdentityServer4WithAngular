@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj": {}
+    "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj": {
+    "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj",
+        "projectUniqueName": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj",
         "projectName": "Bridgetree.Blazor.Models",
-        "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj",
+        "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj",
         "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\obj\\",
+        "outputPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj": {
+    "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
+        "projectUniqueName": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
         "projectName": "Bridgetree.Blazor.Service",
-        "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
+        "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\Bridgetree.Blazor.Service.csproj",
         "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\obj\\",
+        "outputPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -108,8 +108,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj": {
-                "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj"
+              "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj": {
+                "projectPath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Models\\Bridgetree.Blazor.Models.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ibuIwu8jZqKG8XsNXHduJRjMMZNYnZqhlsZSK+nLdg/ZbdTUSwV2DNxAI6Ynd8427XRtnyvDZorrzgFdaVrtg==",
+  "dgSpecHash": "ALFZEGAMwLGkb9sB2XRsCgiguZgNQI4O4RQMXf/34oovALd46zUyUVx97ZjeoMC1faHeohba/JGMjKdqG2KAoA==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\Bridgetree.Blazor\\Bridgetree.Blazor.Server.Web\\Bridgetree.Blazor.Server.Web.csproj",
+  "projectFilePath": "C:\\Workspace\\Jitendra Personal\\My Project\\Active Project\\Angulat wuth sts\\IdentityServer4WithAngular\\Bridgetree.Blazor\\Bridgetree.Blazor.Server.Web\\Bridgetree.Blazor.Server.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.8\\microsoft.aspnetcore.authorization.3.1.8.nupkg.sha512",
