@@ -44,7 +44,7 @@ namespace Bridgetree.Blazor
                .AddJwtBearer("Bearer", opt =>
                {
                    opt.RequireHttpsMetadata = false;
-                   opt.Authority = "https://localhost:5027";
+                   opt.Authority = "https://localhost:44342";
                    opt.Audience = "companyApi";
                });
             services.AddControllers();
