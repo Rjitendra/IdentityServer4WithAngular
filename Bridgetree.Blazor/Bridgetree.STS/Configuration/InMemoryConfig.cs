@@ -97,7 +97,7 @@ namespace Bridgetree.STS.Configuration
                    ClientName = "Angular-Client",
                    ClientId = "angular-client",
                    AllowedGrantTypes = GrantTypes.Code,
-                   RedirectUris = new List<string>{ "http://localhost:4210/src","http://localhost:4210/assets/signin-callback.html", "http://localhost:4210/assets/silent-callback.html" },
+                   RedirectUris = new List<string>{ "http://localhost:4210/signin-callback", "http://localhost:4210/assets/silent-callback.html" },
                    RequirePkce = true,
                    AllowAccessTokensViaBrowser = true,
                    AllowedScopes =
